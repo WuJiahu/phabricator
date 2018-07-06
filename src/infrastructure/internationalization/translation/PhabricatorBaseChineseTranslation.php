@@ -1239,7 +1239,7 @@ abstract class PhabricatorBaseChineseTranslation
       '%s paid for his goods.' => '%s 为他的货物付款。',
     
       // phabricator/src/applications/releeph/storage/ReleephRequestTransaction.php:237
-      '%s passed on this request' => null,
+      '%s passed on this request' => '%s 通过了这个请求',
     
       // phabricator/src/applications/releeph/storage/ReleephRequestTransaction.php:117
       '%s picked this request and committed the result upstream' => null,
@@ -6605,13 +6605,13 @@ abstract class PhabricatorBaseChineseTranslation
     
       // phabricator/src/applications/home/application/PhabricatorHomeApplication.php:64
       // phabricator/src/applications/home/application/PhabricatorHomeApplication.php:102
-      'Create New...' => null,
+      'Create New...' => '创建新的...',
     
       // phabricator/src/applications/herald/application/PhabricatorHeraldApplication.php:18
       'Create Notification Rules' => '创建通知规则',
     
       // phabricator/src/applications/oauthserver/controller/client/PhabricatorOAuthClientEditController.php:36
-      'Create OAuth Application' => null,
+      'Create OAuth Application' => '创建OAuth应用',
     
       // phabricator/src/applications/owners/controller/PhabricatorOwnersController.php:52
       'Create Package' => null,
