@@ -6614,7 +6614,7 @@ abstract class PhabricatorBaseChineseTranslation
       'Create OAuth Application' => '创建OAuth应用',
     
       // phabricator/src/applications/owners/controller/PhabricatorOwnersController.php:52
-      'Create Package' => null,
+      'Create Package' => '创建包',
     
       // phabricator/src/applications/dashboard/engine/PhabricatorDashboardRenderingEngine.php:116
       // phabricator/src/applications/dashboard/controller/PhabricatorDashboardPanelEditController.php:96
