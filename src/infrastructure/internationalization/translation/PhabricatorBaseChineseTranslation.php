@@ -1236,7 +1236,7 @@ abstract class PhabricatorBaseChineseTranslation
       '%s older changes(s) are hidden.' => '%s 更早之前的修改被隐藏了。',
     
       // phabricator/src/applications/uiexample/examples/PHUITimelineExample.php:163
-      '%s paid for his goods.' => null,
+      '%s paid for his goods.' => '%s 为他的货物付款。',
     
       // phabricator/src/applications/releeph/storage/ReleephRequestTransaction.php:237
       '%s passed on this request' => null,
