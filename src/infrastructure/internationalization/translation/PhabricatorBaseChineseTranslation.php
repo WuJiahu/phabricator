@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 
 abstract class PhabricatorBaseChineseTranslation
   extends PhabricatorTranslation {
@@ -2746,7 +2746,7 @@ abstract class PhabricatorBaseChineseTranslation
       'Active and Inactive Repositories' => '活跃的和不活跃的代码库',
     
       // phabricator/src/applications/auth/provider/PhabricatorLDAPAuthProvider.php:218
-      'ActiveDirectory Domain' => null,
+      'ActiveDirectory Domain' => '活动目录域',
     
       // phabricator/src/applications/people/controller/PhabricatorPeopleController.php:25
       // phabricator/src/applications/settings/panel/PhabricatorSettingsPanelActivity.php:15
