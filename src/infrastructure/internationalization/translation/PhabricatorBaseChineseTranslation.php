@@ -1254,10 +1254,10 @@ abstract class PhabricatorBaseChineseTranslation
       '%s planned changes to %s.' => '%s 安排改动给 %s',
     
       // phabricator/src/applications/feed/story/PhabricatorFeedStoryDifferential.php:65
-      '%s planned changes to revision %s' => null,
+      '%s planned changes to revision %s' => '%s 安排改动给修订 %s',
     
       // phabricator/src/applications/feed/story/PhabricatorFeedStoryDifferential.php:156
-      '%s planned changes to revision %s %s' => null,
+      '%s planned changes to revision %s %s' => '%s 安排改动给修订 %s %s',
     
       // phabricator/src/applications/differential/constants/DifferentialAction.php:38
       '%s planned changes to this revision.' => null,
