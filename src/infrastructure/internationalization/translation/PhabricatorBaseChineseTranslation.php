@@ -1251,7 +1251,7 @@ abstract class PhabricatorBaseChineseTranslation
       '%s placed this task up for grabs.' => null,
     
       // phabricator/src/applications/differential/storage/DifferentialTransaction.php:344
-      '%s planned changes to %s.' => null,
+      '%s planned changes to %s.' => '%s 安排改动给 %s',
     
       // phabricator/src/applications/feed/story/PhabricatorFeedStoryDifferential.php:65
       '%s planned changes to revision %s' => null,
